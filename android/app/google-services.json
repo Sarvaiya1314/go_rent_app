@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "53760535723",
+    "project_id": "go-rent-app",
+    "storage_bucket": "go-rent-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53760535723:android:ecb78bb0e4a0a03fed1bee",
+        "android_client_info": {
+          "package_name": "com.rentandrun.go_rent_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53760535723-85ojkr7nf82ulm973rr2hml7d72h47vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentandrun.go_rent_app",
+            "certificate_hash": "fab0d9c2deab5fd2cb2e7226fda3a766163d45be"
+          }
+        },
+        {
+          "client_id": "53760535723-f0m70gk2kkcmcab41shahfi4lcm7odsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBm1QIULMgDSlYsi6VKms7vblaxkwT5LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53760535723-f0m70gk2kkcmcab41shahfi4lcm7odsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53760535723-sqsu6fc6bjv2dvdk04cf73ejembfr5m1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rentandrun.goRentApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
